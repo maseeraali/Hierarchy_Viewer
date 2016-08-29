@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hierarchy Viewer</string>
+    <string name="action_settings">Settings</string>
+    <string name="view_hierarchy">View Hierarchy</string>
+    <string name="welcome_note">Welcome user!</string>
+    <string name="note">This Application will create Visual Representation of hierarical data.</string>
+    <string name="lets_go2">Let\'s see how your organisation works!</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="name">User Name</string>
+    <string name="title_activity_first">First</string>
+    <string name="view_table">View Table</string>
+    <string name="note_refesh_app_after_any_change_in_database">Note:Login again after any change in Database.</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="about_your_organisation">Here are the Hierarchy Tree and position table of your database.</string>
+    <string name="hierarchies_are_very_important_may_it_be_a_product_hierarchy_or_employee_hierarchy_in_any_organization">Hierarchies are very important. May it be a product hierarchy or employee hierarchy in any organization.</string>
+
+</resources>
